@@ -14,10 +14,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring Boot" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
@@ -35,37 +31,32 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia e criação de soluç�
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 [Sistema de Cadastro de Usuários](https://github.com/seuusuario/nome-do-projeto)
-> API RESTful com autenticação JWT e CRUD completo  
-> **Techs:** Spring Boot, PostgreSQL, Docker
-
-### 🔹 [App de Receitas "Single"](https://github.com/seuusuario/single)
-> Aplicativo pensado para quem mora sozinho e quer cozinhar com o que tem na geladeira  
-> **Techs:** React, JavaScript, Firebase
 
 
 ---
 
 ## 📜 Certificações
 
+- JavaScript - Curso em Video (2025)
+- MYSQL - Curso em Video (2025)
 - Formação JS Developer – onebitcode (Em andamento)  
 - Git e GitHub: Controle e Colaboração –  (2024)  
-- Fundamentos do UX  – Uninassau (2023)
+- Fundamentos do UX  – Uninassau (2024)
 
 ---
 
 ## 🌐 Portfólio Online
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-Akira%20Marinho-blue?style=flat-square&logo=firefox)](https://seuportifolio.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Jhonnattan%20Marinho-blue?style=flat-square&logo=firefox)](https://seuportifolio.com)
 
 ---
 
 ## 📬 Vamos Conversar?
 
 <div align="left">
-  <a href="mailto:akiram.dev@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/akiramdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/seuusuario" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="jhonnattan.marinho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jhonnattan-marinho-bb2689266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/AkiraMarinho" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 ---
