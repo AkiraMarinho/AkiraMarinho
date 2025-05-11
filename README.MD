@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Akira Marinho, Desenvolvedor Full Stack 🚀</h1>
+<h1 align="center">Olá! Me chamo Jhonnattan Marinho, Desenvolvedor Full Stack 🚀</h1>
 <h3 align="center">Construindo soluções modernas do frontend ao backend 🧠💻</h3>
 
 ---
