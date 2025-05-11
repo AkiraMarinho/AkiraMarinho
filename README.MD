@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor Full Stack apaixonado por tecnologia e criação de soluções funcionais e escaláveis. Tenho experiência prática em aplicações web modernas, APIs RESTful e integração de sistemas. Busco constantemente aprimorar minhas habilidades e contribuir em projetos com impacto real.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em me tornar um desenvolvedor Full Stack. Tenho interesse especial em banco de dados, desenvolvimento web e redes, além de gostar muito da área de suporte técnico. Já venho praticando com aplicações web e APIs RESTful, e estou sempre buscando aprender mais para evoluir como programador e participar de projetos com propósito real.
 
 ---
 
