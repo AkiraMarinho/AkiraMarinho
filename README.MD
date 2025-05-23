@@ -42,6 +42,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em me tornar u
 - Formação JS Developer – onebitcode (Em andamento)  
 - Git e GitHub: Controle e Colaboração –  (2024)  
 - Fundamentos do UX  – Uninassau (2024)
+- Curso Tecnico em desenvolvimento WEB FullStack - Senac (Em andamento)
 
 ---
 
