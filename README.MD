@@ -6,6 +6,10 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
@@ -19,8 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
 </p>
 
 ---
@@ -44,7 +46,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em me tornar u
 - Formação JS Developer – onebitcode (Em andamento)  
 - Git e GitHub: Controle e Colaboração –  (2024)  
 - Fundamentos do UX  – Uninassau (2024)
-- HTML - onebitcode (Em andamento)
+- HTML - onebitcode (2025)
+- CSS - onebitcode (andamento)
 - Curso Tecnico em desenvolvimento WEB FullStack - Faculdade Senac Pernanbuco (Em andamento)
 
 ---
