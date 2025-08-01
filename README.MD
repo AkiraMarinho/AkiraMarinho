@@ -32,7 +32,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em me tornar u
 
 ## 🚀 Projetos em Destaque
 
-
+🌐 Seal-World
+Seal-World é um site desenvolvido com HTML5 e CSS3, com foco em apresentar um design limpo, moderno e responsivo. O projeto foi criado com o objetivo de praticar e demonstrar habilidades em estruturação semântica de páginas web e estilização visual utilizando apenas tecnologias básicas da web (HTML5 e CSS3.
 
 ---
 
